@@ -1,6 +1,6 @@
 # Big-Data
 
-Objective
+Objective-
 By using the provided HDP tools and techniques, the students will process the data to create
 their own analytics reports and create a visual presentation that will benefit decision-makers.
 This virtual lab-based course will use truck fleet data to refine and analyse trucking movement
@@ -12,7 +12,7 @@ are streamed back to a datacentre where students will process the data and revis
 movements to increase safety.
 
 
-Business Objective
+Business Objective-
 Accidents caused by large trucks remain one of the leading causes of injuries and deaths in
 the United States. The objective is identifying dangerous commercial truck drivers
 nationwide
